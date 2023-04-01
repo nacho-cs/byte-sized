@@ -1,0 +1,23 @@
+{
+  "name": "@nacho-cs/byte-sized",
+  "version": "1.0.4",
+  "description": "A tiny library to easily convert exact byte measurements to a file size and vice versa",
+  "main": "byte-sized.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacho-cs/byte-sized.git"
+  },
+  "keywords": [
+    "bytes"
+  ],
+  "author": "nacho-cs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacho-cs/byte-sized/"
+  },
+  "homepage": "https://github.com/nacho-cs/byte-sized#readme"
+}
