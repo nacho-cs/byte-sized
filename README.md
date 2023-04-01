@@ -1,4 +1,4 @@
-# byte-size
+# byte-sized
 
 ## Easily convert an exact byte measurement to a file size and vice versa
 
@@ -9,7 +9,7 @@
 Run:
 
 ```console
-$ npm i byte-size
+$ npm i byte-sized
 ```
 
 Then add either:
